@@ -1,4 +1,4 @@
-# Incremental-BackupUI
+# Incremental File Backup and Recovery System
 Incremental File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, ensuring users can easily trace and restore specific file versions. The intuitive interface caters to users with diverse technical backgrounds, simplifying the backup and recovery processes. Leveraging Java for cross-platform compatibility, the system employs ZIP compression for storage efficiency. 
 
 System requirements : vscode, JDK 
