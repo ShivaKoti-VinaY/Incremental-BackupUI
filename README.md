@@ -37,3 +37,26 @@ Step 6: Check the backup folder to see if the backup was successful.
 
 ![Screenshot 2023-12-02 at 10 04 48 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/b1d9cf5f-a841-43b5-9888-3cd28d23cefa)
 
+
+To recover a backup using the provided Java program, follow these steps:
+
+Run the program:
+
+1.Execute the Java program (IncrementalBackupUI) by running the main method.
+The graphical user interface (GUI) will appear.
+Choose Backup Folder:
+
+2.Click on the "Choose Backup Folder" button.
+Select the folder containing your backup files (the folder that was specified as the backup folder when performing the backup).
+Recover Files:
+
+3.Click on the "Recover" button.
+A dialog box will prompt you to enter the name of the backup to recover from. Enter the name without the ".zip" extension.
+Wait for recovery:
+
+4.The program will unzip the selected backup and restore the files to the original backup folder.
+You will see a message dialog indicating the success or failure of the recovery process.
+Check Recovered Files:
+
+Open the original backup folder to verify that the files have been successfully recovered.
+
