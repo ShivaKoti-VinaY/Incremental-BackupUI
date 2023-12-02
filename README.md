@@ -1,2 +1,39 @@
 # Incremental-BackupUI
-File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, , the system employs ZIP compression for storage efficiency.
+Incremental File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, ensuring users can easily trace and restore specific file versions. The intuitive interface caters to users with diverse technical backgrounds, simplifying the backup and recovery processes. Leveraging Java for cross-platform compatibility, the system employs ZIP compression for storage efficiency. 
+
+System requirements : vscode, JDK 
+
+
+![Screenshot 2023-12-02 at 9 56 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/0ff1f826-7cac-4f61-9ce1-57f48d1b4e6e)
+
+Step-1: program execution
+
+
+![Screenshot 2023-12-02 at 9 54 30 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/4690ac09-7911-415c-b6e9-3ba9bb8f3f48)
+
+Step-2: Java swing UI will show this window
+
+
+![Screenshot 2023-12-02 at 9 48 53 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/3bb24980-b2c1-401b-ac36-5f5b544731e7)
+
+Step-3: Choosing the Source folder which you want Backup
+
+
+![image](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/ee5e1743-59b5-434c-9ba2-9876b131238d)
+
+Step-4: Choose the Backup folder where you want to store those source files
+
+
+![image](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/7486835f-97c6-48ad-941d-1ace7a0c1496)
+
+Step-5: Backup Success
+
+
+![Screenshot 2023-12-02 at 9 49 48 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/56442287-50e6-4e01-98d8-c46e1d7b9df7)
+
+
+Step 6: Check the backup folder to see if the backup was successful.
+
+
+![Screenshot 2023-12-02 at 10 04 48 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/b1d9cf5f-a841-43b5-9888-3cd28d23cefa)
+
