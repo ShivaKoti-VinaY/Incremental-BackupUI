@@ -6,34 +6,35 @@ System requirements : vscode, JDK
 
 ![Screenshot 2023-12-02 at 9 56 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/0ff1f826-7cac-4f61-9ce1-57f48d1b4e6e)
 
-Step-1: program execution
+1.Run the Program:Execute the Java program (IncrementalBackupUI) by running the main method.
+The graphical user interface (GUI) will appear.
 
 
 ![Screenshot 2023-12-02 at 9 54 30 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/4690ac09-7911-415c-b6e9-3ba9bb8f3f48)
 
-Step-2: Java swing UI will show this window
+2.Java swing UI will show this window
 
 
 ![Screenshot 2023-12-02 at 9 48 53 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/3bb24980-b2c1-401b-ac36-5f5b544731e7)
 
-Step-3: Choosing the Source folder which you want Backup
+3.Choose Source Folder:Click on the "Choose Source Folder" button.
+Select the folder containing the files you want to back up.
 
 
 ![Screenshot 2023-12-02 at 10 16 00 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/d7d3967b-a61f-473e-8256-f69a7aada3f6)
 
-Step-4: Choose the Backup folder where you want to store those source files
+4.Choose Backup Folder:Click on the "Choose Backup Folder" button.
+Select the folder where you want to store the backup files. The program will create a subfolder within this location with a timestamp.
 
 
 ![Screenshot 2023-12-02 at 10 16 23 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/a9cadd94-bbcf-48df-aed2-fa7473782411)
 
-Step-5: Backup Success
-
+5.Perform Backup:Click on the "Backup" button.
+The program will copy files from the selected source folder to a subfolder within the chosen backup folder. It will only copy files that are newer than the existing ones in the backup.
 
 ![Screenshot 2023-12-02 at 9 49 48 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/56442287-50e6-4e01-98d8-c46e1d7b9df7)
 
-
-Step 6: Check the backup folder to see if the backup was successful.
-
+6.Check Backup:Open the chosen backup folder to verify that the new backup subfolder has been created, containing the updated or new files.
 
 ![Screenshot 2023-12-02 at 10 04 48 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/b1d9cf5f-a841-43b5-9888-3cd28d23cefa)
 
