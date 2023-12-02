@@ -19,12 +19,12 @@ Step-2: Java swing UI will show this window
 Step-3: Choosing the Source folder which you want Backup
 
 
-![image](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/ee5e1743-59b5-434c-9ba2-9876b131238d)
+![Screenshot 2023-12-02 at 10 16 00 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/d7d3967b-a61f-473e-8256-f69a7aada3f6)
 
 Step-4: Choose the Backup folder where you want to store those source files
 
 
-![image](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/7486835f-97c6-48ad-941d-1ace7a0c1496)
+![Screenshot 2023-12-02 at 10 16 23 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/a9cadd94-bbcf-48df-aed2-fa7473782411)
 
 Step-5: Backup Success
 
