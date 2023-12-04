@@ -62,11 +62,12 @@ Select the folder containing your backup files (the folder that was specified as
 
 3.Recover Files:
 ->Click on the "Recover" button.
-A dialog box will prompt you to enter the name of the backup to recover from. Enter the name without the ".zip" extension.
 
 
 ![Screenshot 2023-12-04 at 10 05 35 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/22a39c33-0860-4f5f-9910-36a403e29521)
 
+
+A dialog box will prompt you to enter the name of the backup to recover from. Enter the name without the ".zip" extension.
 
 
 ![Screenshot 2023-12-04 at 10 05 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/e2195ab9-d6f7-4e0e-9207-844837a88910)
