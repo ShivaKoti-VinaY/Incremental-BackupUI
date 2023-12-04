@@ -68,11 +68,14 @@ A dialog box will prompt you to enter the name of the backup to recover from. En
 ![Screenshot 2023-12-04 at 10 05 35 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/22a39c33-0860-4f5f-9910-36a403e29521)
 
 
+
+![Screenshot 2023-12-04 at 10 05 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/e2195ab9-d6f7-4e0e-9207-844837a88910)
+
 4.Wait for recovery:
 ->The program will unzip the selected backup and restore the files to the original backup folder.
 You will see a message dialog indicating the success or failure of the recovery process.
 
-![Screenshot 2023-12-04 at 10 05 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/e2195ab9-d6f7-4e0e-9207-844837a88910)
+![Screenshot 2023-12-04 at 10 06 17 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/6f56e295-d1ef-4f0c-8966-4cf085345e1e)
 
 
 5.Check Recovered Files:
