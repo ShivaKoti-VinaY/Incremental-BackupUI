@@ -1,5 +1,7 @@
 # Incremental File Backup and Recovery System
-Incremental File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, ensuring users can easily trace and restore specific file versions. The intuitive interface caters to users with diverse technical backgrounds, simplifying the backup and recovery processes. Leveraging Java for cross-platform compatibility, the system employs ZIP compression for storage efficiency. 
+Incremental File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, ensuring users can easily trace and restore specific file versions. The intuitive interface caters to users with diverse technical backgrounds, simplifying the backup and recovery processes. Leveraging Java for cross-platform compatibility, the system employs ZIP compression for storage efficiency.
+
+
 This Java program provides an incremental backup system with a graphical user interface (GUI) for easy interaction. It allows users to choose source and backup folders, perform backups, and recover files from previous backups. The program creates timestamped backup folders, ensuring multiple backups can be created over time.
 
 
