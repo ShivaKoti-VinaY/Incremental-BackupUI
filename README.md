@@ -1,5 +1,7 @@
 # Incremental File Backup and Recovery System
 Incremental File Backup and Recovery System. This user-friendly solution prioritizes incremental backups to optimize storage and streamline recovery. Timestamped backups facilitate organized data management, ensuring users can easily trace and restore specific file versions. The intuitive interface caters to users with diverse technical backgrounds, simplifying the backup and recovery processes. Leveraging Java for cross-platform compatibility, the system employs ZIP compression for storage efficiency. 
+This Java program provides an incremental backup system with a graphical user interface (GUI) for easy interaction. It allows users to choose source and backup folders, perform backups, and recover files from previous backups. The program creates timestamped backup folders, ensuring multiple backups can be created over time.
+
 
 System requirements : vscode, JDK 
 
@@ -45,18 +47,36 @@ To recover a backup using the provided Java program, follow these steps:
 ->Execute the Java program (IncrementalBackupUI) by running the main method.
 The graphical user interface (GUI) will appear.
 
+![Screenshot 2023-12-04 at 10 08 49 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/90b586d5-ffbc-43bf-9894-94efa9ce52e1)
+
+
 2.Choose Backup Folder:
 ->Click on the "Choose Backup Folder" button.
 Select the folder containing your backup files (the folder that was specified as the backup folder when performing the backup).
+
+
+![Screenshot 2023-12-02 at 10 16 23 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/104d67c5-0943-463f-8da8-6880b3aa7b5d)
+
 
 3.Recover Files:
 ->Click on the "Recover" button.
 A dialog box will prompt you to enter the name of the backup to recover from. Enter the name without the ".zip" extension.
 
+
+![Screenshot 2023-12-04 at 10 05 35 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/22a39c33-0860-4f5f-9910-36a403e29521)
+
+
 4.Wait for recovery:
 ->The program will unzip the selected backup and restore the files to the original backup folder.
 You will see a message dialog indicating the success or failure of the recovery process.
 
+![Screenshot 2023-12-04 at 10 05 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/e2195ab9-d6f7-4e0e-9207-844837a88910)
+
+
 5.Check Recovered Files:
 ->Open the original backup folder to verify that the files have been successfully recovered.
+
+
+![Screenshot 2023-12-04 at 10 06 57 AM](https://github.com/ShivaKoti-VinaY/Incremental-BackupUI/assets/104214901/d6673aae-6d3f-482f-a865-fdd275841f25)
+
 
